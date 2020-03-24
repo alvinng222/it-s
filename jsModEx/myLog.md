@@ -25,3 +25,6 @@ The modules directory's two modules are described below:
   - `draw()` — draws a square on a specified canvas, with a specified size, position, and color. Returns an object containing the square's size, position, and color.
   - `reportArea()` — writes a square's area to a specific report list, given its length.
   - `reportPerimeter()` — writes a square's perimeter to a specific report list, given its length.
+
+---
+myNote: I run on **CS50 IDE** platform, via 'http-server'.
